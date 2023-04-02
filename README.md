@@ -1,7 +1,3 @@
-# Pygame-StarWars-Shooter
-This game was built as a personal project to explore game development using Python and Pygame.
-
-
 Installation:
 
 Clone this repository to your local machine using git clone https://github.com/subha-vignesh/Pygame-StarWars-Shooter
